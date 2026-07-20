@@ -3,7 +3,7 @@
 Evolution of [url-shortener-devops](https://github.com/anandu4879/url-shortener-devops)- same application, this time deployed on Amazon EKS across dev/staging/prod environments with a promotion-based CI/CD pipeline.
 
 ## Sprint log
-- [ ] Sprint 0 — Planning
+- [ ✅ ] Sprint 0 — Planning
 - [ ] Sprint 1 — Kubernetes fundamentals
 - [ ] Sprint 2 — EKS cluster via Terraform
 - [ ] Sprint 3 — Application manifests — Deployment, Service, Ingress4
