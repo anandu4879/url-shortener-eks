@@ -4,7 +4,7 @@ Evolution of [url-shortener-devops](https://github.com/anandu4879/url-shortener-
 
 ## Sprint log
 - [ ✅ ] Sprint 0 — Planning
-- [ ] Sprint 1 — Kubernetes fundamentals
+- [ ✅ ] Sprint 1 — Kubernetes fundamentals
 - [ ] Sprint 2 — EKS cluster via Terraform
 - [ ] Sprint 3 — Application manifests — Deployment, Service, Ingress4
 - [ ] Sprint 4 — Multi-environment Terraform structure
